@@ -1,0 +1,5 @@
+{
+  "name": "QUANTUM LEAP",
+  "description": "A multimodal discovery engine that transforms simple topics into comprehensive audio-visual-analytical experiences using Gemini 2.5.",
+  "requestFramePermissions": []
+}
